@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834904663236",
+    "project_id": "eduapp-fedf2",
+    "storage_bucket": "eduapp-fedf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834904663236:android:c24c7cc280566b69591591",
+        "android_client_info": {
+          "package_name": "com.example.speech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834904663236-n9sghfdd0j2k0t0mfhn7lmt4huse2uit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speech_app",
+            "certificate_hash": "c89ff9137f336131c02087a9a35e9af71094a458"
+          }
+        },
+        {
+          "client_id": "834904663236-h3596ghe8sqlqsvjb8b8tb0cci5ebrks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdkmOvV7Q3VFAKicP2M0P6Ts29ZM_kdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834904663236-h3596ghe8sqlqsvjb8b8tb0cci5ebrks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

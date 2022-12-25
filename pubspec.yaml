@@ -39,6 +39,13 @@ dependencies:
   flutter_tts: ^3.6.2
   video_player: ^2.4.10
   audioplayers: ^1.0.1
+  firebase_auth: ^4.2.3
+  firebase_core: ^2.4.0
+  cloud_firestore: ^4.3.0
+  firebase_storage: ^11.0.9
+  lottie: ^2.1.0
+  flutter_signin_button: ^2.0.0
+  google_sign_in: ^5.4.2
 
 dev_dependencies:
   flutter_test:
@@ -70,7 +77,9 @@ flutter:
     - assets/audio/wrong.mp3
     - assets/audio/correct.mp3
     - assets/audio/ 
-    - assets/videos/animal.mp4  
+    - assets/videos/animal.mp4
+    - assets/lottie/ 
+    - assets/lottie/panda.json    
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
