@@ -1,16 +1,11 @@
-# speech_app
 
-A new Flutter project.
+# KARA - Kids Augmented Reality  App
 
-## Getting Started
+KARA targets the Kids, using our AR and VR-driven content based on our current NEP-2020 policy we have created content that will change the future of learning in a most innovative manner.
 
-This project is a starting point for a Flutter application.
+Kara is a simple, engaging, and interactive learning App for kids, focusing on STEM-based learning using Extended Reality and Mixed reality. It works on the basis of creating a virtual world – real or fictional – that users can see and interact with.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](alphabets.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
