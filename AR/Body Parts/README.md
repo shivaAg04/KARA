@@ -5,7 +5,7 @@ In this project, Augmentation of Introduction of body Parts by an marker...
 
 
 ## App marker
-![marker](<img src="https://drive.google.com/file/d/1i7dMh-VwrCooOj-qfzSrRbHLiOpn0KYi/view?usp=share_link" alt="alternatetext">)
+![](bodyparts.jpeg){align=center}
 
 
 ## Marker
