@@ -21,7 +21,7 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 
 ### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
 
-![](Alphabets.jpeg)
+![](Alphabets.jpeg){align = "center"}
 
 ### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
 
