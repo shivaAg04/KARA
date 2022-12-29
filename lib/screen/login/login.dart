@@ -84,7 +84,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         color: Colors.black),
                     children: <TextSpan>[
                       TextSpan(
-                          text: 'OLX kiet',
+                          text: 'KARA',
                           style: TextStyle(
                               fontSize: 30.0,
                               fontWeight: FontWeight.bold,
@@ -94,7 +94,7 @@ class _LoginScreenState extends State<LoginScreen> {
               const SizedBox(height: 10.0),
               const Text(
                 textAlign: TextAlign.center,
-                'Sell your unused Product here',
+                'Kids Augmented Reality App',
                 style: TextStyle(color: Colors.black),
               ),
               const SizedBox(height: 30.0),
