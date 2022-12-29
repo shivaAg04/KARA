@@ -1,15 +1,28 @@
+ 
 #KARA - The Kids Augumented Reality App
-A new Flutter project.
+ 
 
-## Getting Started
+KARA targets the Kids, using our AR and VR-driven content based on our current NEP-2020 policy we have created content that will change the future of learning in a most innovative manner.
 
-This project is a starting point for a Flutter application.
+Kara is a simple, engaging, and interactive learning App for kids, focusing on STEM-based learning using Extended Reality and Mixed reality. It works on the basis of creating a virtual world – real or fictional – that users can see and interact with.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](poster.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+### AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
+
+![](SolarSystem.jpeg)
+
+### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
+
+![](bodyParts.jpeg)
+
+### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
+
+![](Alphabets.jpeg)
+
+### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
+
+![](PrettyMushroom.jpeg)
