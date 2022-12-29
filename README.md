@@ -1,5 +1,4 @@
-# speech_app
-
+KARA - The Kids AR App
 A new Flutter project.
 
 ## Getting Started
