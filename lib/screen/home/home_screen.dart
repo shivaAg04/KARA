@@ -76,7 +76,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           InkWell(
                             onTap: () {},
                             child: Card(
-                              color: Colors.cyan,
+                              color: Color.fromARGB(255, 4, 140, 163),
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(15)),
                               elevation: 4,
@@ -108,7 +108,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               );
                             },
                             child: Card(
-                              color: Colors.yellow,
+                              color: Color.fromARGB(255, 4, 140, 163),
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(15)),
                               elevation: 4,
@@ -133,7 +133,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           InkWell(
                             onTap: () {},
                             child: Card(
-                              color: Colors.yellow,
+                              color: Color.fromARGB(255, 4, 140, 163),
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(15)),
                               elevation: 4,
@@ -155,10 +155,12 @@ class _HomeScreenState extends State<HomeScreen> {
                               ),
                             ),
                           ),
+                          // name change
+
                           InkWell(
                             onTap: () {},
                             child: Card(
-                              color: Colors.yellow,
+                              color: Color.fromARGB(255, 4, 140, 163),
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(15)),
                               elevation: 4,
