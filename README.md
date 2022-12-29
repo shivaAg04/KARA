@@ -7,5 +7,4 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 
 ## Demo
 
-![](alphabets.gif)
 ![](poster.jpeg)
