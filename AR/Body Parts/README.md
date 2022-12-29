@@ -1,5 +1,5 @@
 
-# AR view of BBody Parts
+# AR view of Body Parts
 
 In this project, Augmentation of Introduction of body Parts by an marker...
 
