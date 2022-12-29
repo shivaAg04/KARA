@@ -10,7 +10,7 @@ In this project, Augmentation of Introduction of body Parts by an marker...
 
 ## Marker
 
-https://drive.google.com/file/d/1i7dMh-VwrCooOj-qfzSrRbHLiOpn0KYi/view?usp=share_link
+![](bodyparts.jpeg){align=center}
 
 
 ## 🔗 Links
