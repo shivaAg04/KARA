@@ -1,4 +1,4 @@
-KARA - The Kids AR App
+#KARA - The Kids AR App
 A new Flutter project.
 
 ## Getting Started
