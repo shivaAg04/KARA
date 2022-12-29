@@ -10,7 +10,7 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 ![](poster.jpeg)
 
 ## Features
-1. AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
+### AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
 
 ![](SolarSystem.jpeg)
 
