@@ -5,12 +5,12 @@ In this project, Augmentation of Introduction of body Parts by an marker...
 
 
 ## App marker
-![](bodyparts.jpeg)
+![](bodyparts.jpg)
 
 
 ## Marker
 
-![](bodyparts.jpeg)
+![](bodyparts.jpg)
 
 
 ## 🔗 Links
