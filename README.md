@@ -1,5 +1,6 @@
-
-# KARA - Kids Augmented Reality  App
+ 
+#KARA - The Kids Augumented Reality App
+ 
 
 KARA targets the Kids, using our AR and VR-driven content based on our current NEP-2020 policy we have created content that will change the future of learning in a most innovative manner.
 
