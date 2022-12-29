@@ -22,9 +22,6 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 
 ![](Alphabets.jpeg)
 
-### Game 1 (Find with alphabet) - It is a game in which we have to choose the correct image which starts with the given alphabet.
-![](FindAphabets.jpeg)
-
-### Game 2 (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
+### Game (Pretty Mushroom) - It is a science trivia game which presents quiz as a way to win various coins.
 
 ![](PrettyMushroom.jpeg)
