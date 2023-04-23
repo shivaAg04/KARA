@@ -25,7 +25,7 @@ class _McqGameState extends State<McqGame> {
     _controller = VideoPlayerController.asset('assets/videos/animal.mp4')
       ..initialize().then((_) {
         _controller.play();
-        _controller.setLooping(true);
+        _controller.setLooping(false);
         // Ensure the first frame is shown after the video is initialized
         setState(() {});
       });
