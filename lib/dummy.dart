@@ -7,11 +7,11 @@
 //   final List<Map<dynamic, dynamic>> totalTask;
 //   final int streak;
 //   final int prizeMoney;
-//   final String name;
+//   final String name;n  
 //   UserDataSchema({
 //     required this.email,
 //     required this.healthScore,
-//     required this.totalTask,
+//       this.totalTask,
 //     required this.streak,
 //     required this.prizeMoney,
 //     required this.name,
